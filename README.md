@@ -12,3 +12,5 @@ I also chose the variables/nodes in order of which had the smallest number of wo
 
 ## Template
 This was an assignment in which I built upon a template from the Harvard CS50 online course. It can be found at https://cs50.harvard.edu/ai/2020/projects/3/crossword/
+
+![Minesweeper](https://github.com/chenalan02/Crossword-Generator-Harvard-cs50ai/blob/master/Crossword%20Generator.JPG)
